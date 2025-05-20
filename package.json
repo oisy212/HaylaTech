@@ -1,0 +1,17 @@
+{
+  "name": "hayla-website",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "tailwindcss": "^3.0.0",
+    "framer-motion": "^7.6.0",
+    "next-i18next": "^13.0.0"
+  }
+}
